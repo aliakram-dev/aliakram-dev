@@ -17,3 +17,8 @@ ali.akram.dev@gmail.com
 
 ### 🛠️ Tech I'm learning
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,vscode)](https://skillicons.dev)
+
+---
+
+### 📊 Contribution Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aliakram-dev&theme=dark&hide_border=true)](https://github.com/aliakram-dev)
